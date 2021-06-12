@@ -9,8 +9,8 @@
 title:       vonYiman Blog
 email:       'vonyiman@163.com'
 description: ''
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://vonyiman.github.io' # The base hostname & protocol for your site
+baseurl:     'https://vonyiman.github.io' # The subpath of your site, e.g. /blog
+url:         '' # The base hostname & protocol for your site
 twitter:     ''
 github:      'https://github.com/GangyiTian'
 instagram:   ''
