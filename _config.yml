@@ -12,7 +12,7 @@ description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://vonyiman.github.io' # The base hostname & protocol for your site
 twitter:     ''
-github:      ''
+github:      'https://github.com/GangyiTian'
 instagram:   ''
 facebook:    ''
 
