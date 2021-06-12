@@ -1,48 +1,48 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title:       Type
-email:       ''
-description: ''
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
-twitter:     ''
-github:      ''
-instagram:   ''
-facebook:    ''
-
-markdown:  kramdown
+# Setup
+title: Dark Poole
+url: https://getpoole.com
+paginate: 1
+baseurl: ""
 permalink: pretty
-paginate:  10
 
-sass:
-  style: compressed
-
+# Gems
 plugins:
+  - jekyll-gist
   - jekyll-paginate
-  - jekyll/tagging
+  - jekyll-seo-tag
 
-include:
-  - _pages
-
+# Optimize Jekyll
 exclude:
-  - vendor
+  - .editorconfig
+  - .git
+  - .jekyll-cache
   - Gemfile
   - Gemfile.lock
+  - LICENSE.md
+  - README.md
 
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
+sass:
+  sass_dir: _sass
+  style: :compressed
 
-# Pages path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: Mark Otto
+  url: https://twitter.com/mdo
+  email: markdotto@gmail.com
+
+# Custom vars
+version: 3.0.0
+
+# Navbar page list
+nav:
+  - title: Blog
+    url: /archive
+
+  - title: About
+    url: /about
