@@ -2,7 +2,7 @@
 title: GangyiTian Blog
 url: https://GangyiTian.github.io/
 paginate: 1
-baseurl: "archive"
+baseurl: ""
 permalink: pretty
 
 # Gems
