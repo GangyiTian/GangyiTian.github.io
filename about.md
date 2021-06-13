@@ -4,7 +4,7 @@ title: 关于
 ---
 
 <p class="message">
-  👋 嗨！我是@GangyiTian，这是我通过 jekyll-Poole 在github上面建立的个人博客，记录一些学习的过程。
+  👋 嗨！我是@GangyiTian，这是我通过 jekyll-Poole 在github上面建立的个人博客，记录一些学习的过程.
 </p>
 
 ## 如何创建？

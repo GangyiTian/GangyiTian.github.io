@@ -3,10 +3,9 @@ layout: post
 title: 如何在GitHub上创建个人博客
 ---
 
-<dt style="background-color: #e64980;">
-👋 嗨！这篇文章是介绍如何在GitHub上创建个人博客
-</dt>
-
+<p class="message" style="background-color: #e64980;">
+  👋 嗨！这篇文章是介绍如何在GitHub上创建个人博客
+</p>
 
 
 在GitHub上面创建博客的过程其实和发布repo是一样的.
