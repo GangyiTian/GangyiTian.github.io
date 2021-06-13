@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Archive
+title: 文章
 ---
 
 # Archive

@@ -1,29 +1,14 @@
 ---
 layout: page
-title: About
+title: 关于
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  👋 嗨！我是@GangyiTian，这是我通过jekyll-Poole在github上面建立的个人博客，记录一些学习的过程。
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## 如何创建？
 
-There are currently two themes built on Poole:
-
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+- 如果你对jekyll感兴趣，也想尝试，可以浏览[如何在github建立博客](https://GangyiTian/github.io/2021/06/13/how-to-create-blog-on-github) 
+- 我使用的模板[Dark Poole](https://github.com/andrewhwanpark/dark-poole)
+- 更多可以访问[Jekyll](https://jekyllrb.com)
