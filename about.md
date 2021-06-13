@@ -9,6 +9,6 @@ title: 关于
 
 ## 如何创建？
 
-- 如果你对jekyll感兴趣，也想尝试，可以浏览[如何在github建立博客](https://GangyiTian/github.io/2021/06/13/how-to-create-blog-on-github) 
-- 我使用的模板[Dark Poole](https://github.com/andrewhwanpark/dark-poole)
-- 更多可以访问[Jekyll](https://jekyllrb.com)
+- 如果你对jekyll感兴趣，也想尝试，可以浏览:[如何在github建立博客](https://gangyitian.github.io/2021/06/13/how-to-create-blog-on-github) 
+- 我使用的模板:[Dark Poole](https://github.com/andrewhwanpark/dark-poole)
+- 更多可以访问:[Jekyll](https://jekyllrb.com)
