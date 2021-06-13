@@ -1,8 +1,8 @@
 # Setup
 title: GangyiTian Blog
-url: https://GangyiTian.github.io/archive
+url: https://GangyiTian.github.io/
 paginate: 1
-baseurl: ""
+baseurl: "archive"
 permalink: pretty
 
 # Gems
