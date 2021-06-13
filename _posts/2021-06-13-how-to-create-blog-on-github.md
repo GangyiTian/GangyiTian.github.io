@@ -40,4 +40,4 @@ title: 如何在GitHub上创建个人博客
 - 后续，再按照类似的方法对本地文件进行修改 commit 后再 push 即可
 - 在jekyll中，一般配置文件为 `_config.yml`，因此通常修改改文件可以满足大多数自定义要求
 - 如果想要提交自己的文章，通常则是由 `_posts` 文件夹进行管理
-- 更多具体内容可以查看fork代码中的Readme以及jekyll官方教程: [jekyll](https://jekyllrb.com/)
+- 更多具体内容可以查看 readme 以及 jekyll 官方教程: [jekyll](https://jekyllrb.com/)
