@@ -1,6 +1,6 @@
 # Setup
-title: GangyiTian Blog
-url: https://GangyiTian.github.io/
+title: Dark Poole
+url: https://getpoole.com
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,17 +32,17 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Gangyi Tian
-  url: https://github.com/GangyiTian
-  email: vonyiman@163.com
+  name: Mark Otto
+  url: https://twitter.com/mdo
+  email: markdotto@gmail.com
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: 文章
+  - title: Blog
     url: /archive
 
-  - title: 关于
+  - title: About
     url: /about
